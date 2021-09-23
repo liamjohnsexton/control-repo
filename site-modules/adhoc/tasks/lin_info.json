@@ -1,0 +1,10 @@
+{
+    "description": "Displays system information for a given Linux node via lscpu command",
+    "input_method": "environment",
+    "parameters": {
+      "myparam1":  {
+        "description": "Your custom parameter",
+        "type": "String"
+      }
+    }
+}
