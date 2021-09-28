@@ -102,3 +102,7 @@ mod 'tse-winntp',                             :latest
 mod 'puppetlabs-iis',                         :latest
 mod 'puppetlabs-sqlserver',                   :latest
 mod 'kreeuwijk-vmtools_win',                  :latest
+
+
+# Adding patching as code module
+mod 'puppetlabs-patching_as_code',            :latest
